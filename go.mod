@@ -11,3 +11,4 @@ require (
 	golang.org/x/net v0.0.0-20200301022130-244492dfa37a
 	golang.org/x/tools v0.0.0-20200302213018-c4f5635f1074 // indirect
 )
+replace github.com/geek1011/easy-novnc v1.1.0 => github.com/lvtao-os/easy-novnc v1.1.0
